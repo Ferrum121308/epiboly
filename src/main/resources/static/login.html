@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>login</title>
+</head>
+<body>
+<fieldset>
+    <legend align="center">用户登录</legend>
+    <form name="loginPost" action="/user/login" method="get">
+        <table cellpadding="2" align="center">
+            <tr>
+                <td align="right">用户名：</td>
+                <td><input type="text" name="username"/></td>
+            </tr>
+            <tr>
+                <td align="right">密码：</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="登录"/>
+                    <input type="reset" value="重置"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</fieldset>
+</body>
+</html>
