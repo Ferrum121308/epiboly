@@ -1,0 +1,13 @@
+
+E
+java:S1066E"/Merge this if statement with the enclosing one.(ÕŸÞÓ
+Y
+java:S1155k">Use isEmpty() to check whether the collection is empty or not.(ÚÎÉþÿÿÿÿ
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(õŠ³ôüÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(×¢×Å
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(Ç²ƒí
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(Ç²ƒí8þ–¯£ž/
+]	java:S125l"<This block of commented-out lines of code should be removed.(øž«ðýÿÿÿÿ8èç®£ž/
+V	java:S125|"<This block of commented-out lines of code should be removed.(ƒ‡Ì´úÿÿÿÿ
+R	java:S125”"<This block of commented-out lines of code should be removed.(” ÂÛ

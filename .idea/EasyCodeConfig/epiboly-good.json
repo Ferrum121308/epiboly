@@ -1,0 +1,35 @@
+{
+  "name" : "Good",
+  "originTableName" : "good",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "goodid",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "goodnum",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "gooddescription",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.project.epiboly",
+  "savePath" : "./src/main/java/com/project/epiboly",
+  "saveModelName" : "epiboly"
+}

@@ -1,0 +1,9 @@
+
+`
+java:S1192E"JDefine a constant instead of duplicating this literal "condition" 6 times.(ç˜‡
+Y
+java:S1155^">Use isEmpty() to check whether the collection is empty or not.(øÛûŸÿÿÿÿÿ
+Y
+java:S1155l">Use isEmpty() to check whether the collection is empty or not.(øÛûŸÿÿÿÿÿ
+h
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(…´¼½

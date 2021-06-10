@@ -1,0 +1,27 @@
+{
+  "name" : "UserRole",
+  "originTableName" : "user_role",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "userid",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "roleid",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.project.epiboly",
+  "savePath" : "./src/main/java/com/project/epiboly",
+  "saveModelName" : "epiboly"
+}

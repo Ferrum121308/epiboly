@@ -1,0 +1,35 @@
+{
+  "name" : "Permission",
+  "originTableName" : "permission",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "permissionid",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "permissionname",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "permissionavailable",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Object",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.project.epiboly",
+  "savePath" : "./src/main/java/com/project/epiboly",
+  "saveModelName" : "epiboly"
+}

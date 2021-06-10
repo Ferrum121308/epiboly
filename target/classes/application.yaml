@@ -1,0 +1,17 @@
+server:
+  port: 8089
+spring:
+  datasource:
+    username: root
+    password: 121308
+    url: jdbc:mysql:///epiboly?characterEncoding=utf-8&serverTimezone=UTC
+  jpa:
+    database: mysql
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    properties:
+      hibernate:
+        format_sql: true
